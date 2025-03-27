@@ -1,7 +1,7 @@
 # Gestura
 
 ## Overview
-This project implements a **deep learning-based hand gesture recognition system** using a **CNN architecture**. The model is trained on a dataset of hand gesture images to classify different gestures with high accuracy. The system is optimized for real-time inference and can be integrated into interactive applications.
+This project deploys a hand gesture recognition system based on deep learning using a CNN model. The model is trained with a dataset of hand gesture images to identify various gestures with high accuracy. The system is optimized for real-time inference and can be integrated into interactive applications.
 
 ## Features
 - **98.5% Accuracy** on test data
