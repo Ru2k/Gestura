@@ -1,4 +1,4 @@
-# Hand Gesture Recognition Model
+# Gestura
 
 ## Overview
 This project implements a **deep learning-based hand gesture recognition system** using a **CNN architecture**. The model is trained on a dataset of hand gesture images to classify different gestures with high accuracy. The system is optimized for real-time inference and can be integrated into interactive applications.
@@ -59,10 +59,8 @@ This project implements a **deep learning-based hand gesture recognition system*
 - Deploy as a web or mobile application
 
 ## Contributors
-- **[Your Name]** – Model Development & Optimization
+- P N Akash – Model Development & Optimization
 
 ## License
 This project is licensed under the MIT License.
 
----
-🚀 **Transforming Hand Gestures into Seamless AI Interactions!**
